@@ -23,7 +23,7 @@ nav>ul {
     text-decoration: none;
     color: black;
     font-size: 25px;
-    padding: 15px 10px 4px 8px
+    padding: 15px 10px 4px 8px;
 }
 
 .ul_menu>li>a:hover {
@@ -38,7 +38,7 @@ nav>ul>li:hover .sous_menu {
     margin-top: 3px;
     list-style-type: none;
     background-color: rgb(245, 245, 245);
-    width: 100px;
+    width: 140px;
     visibility: hidden;
 }
 
